@@ -6,4 +6,4 @@ V případě použití skriptu, prosím o zmíňce, že jej vytvořil https://su
 Děkuji.
 
 Autor - Tomáš Motl
-https://sumavskyservis.cz
+( https://sumavskyservis.cz )
